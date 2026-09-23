@@ -70,6 +70,15 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
+#### 🔌 Backend & Real-Time Apps
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
 #### ⚙️ Embedded Systems, IoT & Hardware
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -86,6 +95,8 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 </div>
@@ -96,12 +107,18 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 
 | Project | Tech Stack | Highlights | Link |
 | :--- | :--- | :--- | :---: |
-| 🛡️ **Spam SMS Detection** | Python, Scikit-Learn, Streamlit, HTML/CSS/JS | End-to-end ML pipeline with 99% precision calibration, zero data leakage, and standalone Web UI & REST API. | [Repo](https://github.com/SriVishnu230707/spam-sms-detection) |
-| 🏛️ **MPLADS Sentinel AI** | TypeScript, React, AI / Anomaly Detection | AI-powered risk intelligence, anomaly detection, and accountable governance monitoring platform. | [Repo](https://github.com/SriVishnu230707/mplads-sentinel-ai) |
-| 🌱 **AgriSense Smart Irrigation** | C++, ESP32, Arduino, DHT22, Sensors | Smart IoT irrigation system with soil moisture sensing, climate monitoring, and automated pump control. | [Repo](https://github.com/SriVishnu230707/AgriSense-Smart-Irrigation) |
-| 📇 **Nexus Contact Space** | HTML5, CSS3, JavaScript, Vercel | Clean, responsive contact management platform deployed live on Vercel. | [Live Demo](https://nexus-contact-space.vercel.app) &bull; [Repo](https://github.com/SriVishnu230707/nexus-contact-space) |
-| 🪐 **Orbit OS** | React.js, JavaScript, CSS | Web-based operating system application interface built with React components. | [Repo](https://github.com/SriVishnu230707/orbit-os) |
-| 🎲 **Command Line Ludo Game** | C++ / Python, CLI | Classic interactive Ludo board game implemented with pure command-line mechanics. | [Repo](https://github.com/SriVishnu230707/command-line-ludo-game) |
+| 🌍 **OpenSRE** | Python, AI agents, Docker, GitHub Actions | Open-source framework for AI SRE agents and infrastructure incident response. | [Repo](https://github.com/SriVishnu230707/opensre) |
+| 📈 **Ticker Room** | React, Node.js, Express, Socket.IO, MongoDB | Real-time market dashboard with price alerts, watchlists, and paper trading. | [Repo](https://github.com/SriVishnu230707/ticker-room) |
+| 🛡️ **Spam SMS Detection** | Python, Scikit-Learn, Streamlit | SMS classification pipeline with a web interface and API. | [Repo](https://github.com/SriVishnu230707/spam-sms-detection) |
+| 🏛️ **MPLADS Sentinel AI** | TypeScript, React, anomaly detection | Risk intelligence and monitoring for public project governance. | [Repo](https://github.com/SriVishnu230707/mplads-sentinel-ai) |
+| 🌱 **AgriSense Smart Irrigation** | C++, ESP32, Arduino, DHT22 | Monitors soil and climate conditions and controls a pump through a relay. | [Repo](https://github.com/SriVishnu230707/AgriSense-Smart-Irrigation) |
+| 🎤 **InterviewIQ** | React, FastAPI, OpenAI API | Prototype that generates interview questions and provides answer feedback. | [Repo](https://github.com/SriVishnu230707/interviewiq) |
+| 📇 **Nexus Contact Space** | HTML, CSS, JavaScript | Responsive contact management app. | [Live Demo](https://nexus-contact-space.vercel.app) &bull; [Repo](https://github.com/SriVishnu230707/nexus-contact-space) |
+| 🗂️ **Depthboard** | HTML, CSS, JavaScript, localStorage | Three-stage spatial Kanban board with persistent browser tasks. | [Repo](https://github.com/SriVishnu230707/depthboard) |
+| 🪐 **Orbit OS** | React, JavaScript, CSS | Web-based operating system interface. | [Repo](https://github.com/SriVishnu230707/orbit-os) |
+| 🎲 **Command-Line Ludo Game** | Python | Terminal Ludo with human or computer players, save, resume, and replay. | [Repo](https://github.com/SriVishnu230707/Ludo-game-enhanced) |
+
+**Open-source stack:** Python, Docker, GitHub Actions, and AI agent tooling through [OpenSRE](https://github.com/SriVishnu230707/opensre).
 
 ---
 
