@@ -122,15 +122,25 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 
 ---
 
+### 🔄 Recently Updated Repositories
+
+This list refreshes daily from my public repositories.
+
+<!-- RECENT_REPOS_START -->
+Loading recent activity on the next workflow run.
+<!-- RECENT_REPOS_END -->
+
+---
+
 ### 🐍 Contribution Activity Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SriVishnu230707/SriVishnu-s-show/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SriVishnu230707/SriVishnu-s-show/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SriVishnu230707/SriVishnu-s-show/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SriVishnu230707/SriVishnu230707/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SriVishnu230707/SriVishnu230707/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SriVishnu230707/SriVishnu230707/output/github-contribution-grid-snake.svg" />
   </picture>
-  <p><em>The snake eats green contribution squares every day at midnight!</em></p>
+  <p><em>The contribution snake refreshes daily.</em></p>
 </div>
 
 ---
