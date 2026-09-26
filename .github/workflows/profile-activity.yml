@@ -3,7 +3,7 @@ name: Refresh profile activity
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 3 * * *'
+    - cron: '17 */6 * * *'
 
 permissions:
   contents: write
@@ -45,7 +45,7 @@ jobs:
           for repo in repos[:6]:
               name = html.escape(repo["name"])
               language = html.escape(repo["language"] or "Mixed stack")
-              pushed = repo["pushed_at"][:10]
+              pushed = repo["pushed_at"][:16].replace("T", " ") + " UTC"
               lines.append(f"- **[{name}]({repo['html_url']})** · {language} · last pushed {pushed}")
           section = "\n".join(lines) if lines else "No public repositories yet."
 
