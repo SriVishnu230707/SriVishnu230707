@@ -72,6 +72,7 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 
 #### 🔌 Backend & Real-Time Apps
 <p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -107,6 +108,7 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 
 | Project | Tech Stack | Highlights | Link |
 | :--- | :--- | :--- | :---: |
+| 🎵 **Dream Music** | Go, Python, TypeScript | Mood-aware music app with a Go backend, Python mood service, and web frontend. | [Repo](https://github.com/SriVishnu230707/dream-music) |
 | 🌍 **OpenSRE** | Python, AI agents, Docker, GitHub Actions | Open-source framework for AI SRE agents and infrastructure incident response. | [Repo](https://github.com/SriVishnu230707/opensre) |
 | 📈 **Ticker Room** | React, Node.js, Express, Socket.IO, MongoDB | Real-time market dashboard with price alerts, watchlists, and paper trading. | [Repo](https://github.com/SriVishnu230707/ticker-room) |
 | 🛡️ **Spam SMS Detection** | Python, Scikit-Learn, Streamlit | SMS classification pipeline with a web interface and API. | [Repo](https://github.com/SriVishnu230707/spam-sms-detection) |
