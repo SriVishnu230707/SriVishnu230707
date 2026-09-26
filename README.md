@@ -126,7 +126,7 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 
 ### 🔄 Recently Updated Repositories
 
-This list refreshes daily from my public repositories.
+This list refreshes about every six hours from my public repositories.
 
 <!-- RECENT_REPOS_START -->
 - **[dream-music](https://github.com/SriVishnu230707/dream-music)** · Go · last pushed 2026-09-25
