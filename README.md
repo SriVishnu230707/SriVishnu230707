@@ -122,6 +122,13 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 
 **Open-source stack:** Python, Docker, GitHub Actions, and AI agent tooling through [OpenSRE](https://github.com/SriVishnu230707/opensre).
 
+### 🤝 Open Source Contributions
+
+| Project | Contribution | Status |
+| :--- | :--- | :--- |
+| [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | Fixed a broken CNN image link in the README by pointing readers to the runnable example. | [PR #142](https://github.com/eriklindernoren/ML-From-Scratch/pull/142) |
+| [ipatool](https://github.com/majd/ipatool) | Added a tested `download --dry-run` preview for the resolved app version and output path. | [Commit on my fork](https://github.com/SriVishnu230707/ipatool/commit/5054187fc06cc90b12da434cec6994740730e5d1) |
+
 ---
 
 ### 🔄 Recently Updated Repositories
