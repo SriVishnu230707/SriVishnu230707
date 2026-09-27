@@ -68,6 +68,8 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
 </p>
 
 #### 🔌 Backend & Real-Time Apps
@@ -78,6 +80,10 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" alt="SQLAlchemy" />
 </p>
 
 #### ⚙️ Embedded Systems, IoT & Hardware
@@ -108,16 +114,16 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 
 | Project | Tech Stack | Highlights | Link |
 | :--- | :--- | :--- | :---: |
-| 🎵 **Dream Music** | Go, Python, TypeScript | Mood-aware music app with a Go backend, Python mood service, and web frontend. | [Repo](https://github.com/SriVishnu230707/dream-music) |
+| 🎵 **Dream Music** | Go, PostgreSQL | Mood-aware music recommendation project in development; current repo includes a Go module and database driver. | [Repo](https://github.com/SriVishnu230707/dream-music) |
 | 🌍 **OpenSRE** | Python, AI agents, Docker, GitHub Actions | Open-source framework for AI SRE agents and infrastructure incident response. | [Repo](https://github.com/SriVishnu230707/opensre) |
 | 📈 **Ticker Room** | React, Node.js, Express, Socket.IO, MongoDB | Real-time market dashboard with price alerts, watchlists, and paper trading. | [Repo](https://github.com/SriVishnu230707/ticker-room) |
 | 🛡️ **Spam SMS Detection** | Python, Scikit-Learn, Streamlit | SMS classification pipeline with a web interface and API. | [Repo](https://github.com/SriVishnu230707/spam-sms-detection) |
-| 🏛️ **MPLADS Sentinel AI** | TypeScript, React, anomaly detection | Risk intelligence and monitoring for public project governance. | [Repo](https://github.com/SriVishnu230707/mplads-sentinel-ai) |
+| 🏛️ **MPLADS Sentinel AI** | React, TypeScript, Vite, Leaflet, FastAPI, SQLAlchemy, PostgreSQL, Redis | Risk intelligence and monitoring for public project governance. | [Repo](https://github.com/SriVishnu230707/mplads-sentinel-ai) |
 | 🌱 **AgriSense Smart Irrigation** | C++, ESP32, Arduino, DHT22 | Monitors soil and climate conditions and controls a pump through a relay. | [Repo](https://github.com/SriVishnu230707/AgriSense-Smart-Irrigation) |
 | 🎤 **InterviewIQ** | React, FastAPI, OpenAI API | Prototype that generates interview questions and provides answer feedback. | [Repo](https://github.com/SriVishnu230707/interviewiq) |
 | 📇 **Nexus Contact Space** | HTML, CSS, JavaScript | Responsive contact management app. | [Live Demo](https://nexus-contact-space.vercel.app) &bull; [Repo](https://github.com/SriVishnu230707/nexus-contact-space) |
 | 🗂️ **Depthboard** | HTML, CSS, JavaScript, localStorage | Three-stage spatial Kanban board with persistent browser tasks. | [Repo](https://github.com/SriVishnu230707/depthboard) |
-| 🪐 **Orbit OS** | React, JavaScript, CSS | Web-based operating system interface. | [Repo](https://github.com/SriVishnu230707/orbit-os) |
+| 🪐 **Orbit OS** | HTML, CSS, JavaScript | Responsive focus dashboard with a 3D orb and timer. | [Repo](https://github.com/SriVishnu230707/orbit-os) |
 | 🎲 **Command-Line Ludo Game** | Python | Terminal Ludo with human or computer players, save, resume, and replay. | [Repo](https://github.com/SriVishnu230707/Ludo-game-enhanced) |
 
 **Open-source stack:** Python, Docker, GitHub Actions, and AI agent tooling through [OpenSRE](https://github.com/SriVishnu230707/opensre).
@@ -128,6 +134,7 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 | :--- | :--- | :--- |
 | [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | Fixed a broken CNN image link in the README by pointing readers to the runnable example. | [PR #142](https://github.com/eriklindernoren/ML-From-Scratch/pull/142) |
 | [ipatool](https://github.com/majd/ipatool) | Added a tested `download --dry-run` preview for the resolved app version and output path. | [Commit on my fork](https://github.com/SriVishnu230707/ipatool/commit/5054187fc06cc90b12da434cec6994740730e5d1) |
+| [superfile](https://github.com/yorukot/superfile) | Fixed a Go issue in the file manager. | [PR #1662](https://github.com/yorukot/superfile/pull/1662) |
 
 ---
 
