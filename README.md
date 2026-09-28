@@ -132,9 +132,11 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 
 | Project | Contribution | Status |
 | :--- | :--- | :--- |
-| [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | Fixed a broken CNN image link in the README by pointing readers to the runnable example. | [PR #142](https://github.com/eriklindernoren/ML-From-Scratch/pull/142) |
-| [ipatool](https://github.com/majd/ipatool) | Added a tested `download --dry-run` preview for the resolved app version and output path. | [Commit on my fork](https://github.com/SriVishnu230707/ipatool/commit/5054187fc06cc90b12da434cec6994740730e5d1) |
-| [superfile](https://github.com/yorukot/superfile) | Fixed a Go issue in the file manager. | [PR #1662](https://github.com/yorukot/superfile/pull/1662) |
+| [ogimagecn](https://github.com/shadcn-labs/ogimagecn) | Fixed relative preview image and icon URLs after page redirects; added regression tests. | [PR #58 — merged](https://github.com/shadcn-labs/ogimagecn/pull/58) |
+| [superfile](https://github.com/yorukot/superfile) | Fixed folder icon colors so the configured directory color is honored, with Go regression tests. | [PR #1662 — open](https://github.com/yorukot/superfile/pull/1662) |
+| [OpenSRE](https://github.com/Tracer-Cloud/opensre) | Proposed fixes for session write timeouts, manual login fallback, and Copilot authentication detection. | [#6386](https://github.com/Tracer-Cloud/opensre/pull/6386), [#6382](https://github.com/Tracer-Cloud/opensre/pull/6382), [#6377](https://github.com/Tracer-Cloud/opensre/pull/6377) — closed |
+| [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | Replaced a broken CNN image with a link to the runnable example. | [PR #142 — closed](https://github.com/eriklindernoren/ML-From-Scratch/pull/142) |
+| [ipatool](https://github.com/majd/ipatool) | Added a tested `download --dry-run` preview in my fork. | [Fork commit](https://github.com/SriVishnu230707/ipatool/commit/5054187fc06cc90b12da434cec6994740730e5d1) |
 
 ---
 
