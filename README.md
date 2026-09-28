@@ -143,12 +143,12 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 This list refreshes about every six hours from my public repositories.
 
 <!-- RECENT_REPOS_START -->
+- **[mplads-sentinel-ai](https://github.com/SriVishnu230707/mplads-sentinel-ai)** · TypeScript · last pushed 2026-09-28 03:11 UTC
 - **[superfile](https://github.com/SriVishnu230707/superfile)** · Mixed stack · last pushed 2026-09-27 06:05 UTC
 - **[ipatool](https://github.com/SriVishnu230707/ipatool)** · Mixed stack · last pushed 2026-09-27 05:43 UTC
 - **[dream-music](https://github.com/SriVishnu230707/dream-music)** · Go · last pushed 2026-09-27 05:39 UTC
 - **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-09-27 04:37 UTC
 - **[ogimagecn](https://github.com/SriVishnu230707/ogimagecn)** · Mixed stack · last pushed 2026-09-24 13:42 UTC
-- **[Ludo-game-enhanced](https://github.com/SriVishnu230707/Ludo-game-enhanced)** · Python · last pushed 2026-09-23 13:48 UTC
 <!-- RECENT_REPOS_END -->
 
 ---
