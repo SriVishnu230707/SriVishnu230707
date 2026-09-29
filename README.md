@@ -145,9 +145,9 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 This list refreshes about every six hours from my public repositories.
 
 <!-- RECENT_REPOS_START -->
-- **[College-Club-Portal](https://github.com/SriVishnu230707/College-Club-Portal)** · JavaScript · last pushed 2026-09-29 03:44 UTC
-- **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-09-28 18:09 UTC
-- **[tailcat](https://github.com/SriVishnu230707/tailcat)** · Mixed stack · last pushed 2026-09-28 16:55 UTC
+- **[College-Club-Portal](https://github.com/SriVishnu230707/College-Club-Portal)** · JavaScript · last pushed 2026-09-29 14:25 UTC
+- **[tailcat](https://github.com/SriVishnu230707/tailcat)** · Go · last pushed 2026-09-29 14:23 UTC
+- **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-09-29 14:22 UTC
 - **[superfile](https://github.com/SriVishnu230707/superfile)** · Go · last pushed 2026-09-28 14:29 UTC
 - **[mplads-sentinel-ai](https://github.com/SriVishnu230707/mplads-sentinel-ai)** · TypeScript · last pushed 2026-09-28 03:11 UTC
 - **[ipatool](https://github.com/SriVishnu230707/ipatool)** · Mixed stack · last pushed 2026-09-27 05:43 UTC
