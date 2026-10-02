@@ -145,12 +145,12 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 This list refreshes about every six hours from my public repositories.
 
 <!-- RECENT_REPOS_START -->
-- **[ogimagecn](https://github.com/SriVishnu230707/ogimagecn)** · TypeScript · last pushed 2026-10-02 05:29 UTC
-- **[match-seat-booking-system](https://github.com/SriVishnu230707/match-seat-booking-system)** · JavaScript · last pushed 2026-10-02 05:00 UTC
-- **[OpenShell](https://github.com/SriVishnu230707/OpenShell)** · Mixed stack · last pushed 2026-09-30 15:51 UTC
+- **[OpenShell](https://github.com/SriVishnu230707/OpenShell)** · Rust · last pushed 2026-10-02 12:38 UTC
+- **[match-seat-booking-system](https://github.com/SriVishnu230707/match-seat-booking-system)** · JavaScript · last pushed 2026-10-02 12:29 UTC
+- **[ogimagecn](https://github.com/SriVishnu230707/ogimagecn)** · TypeScript · last pushed 2026-10-02 12:06 UTC
+- **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-10-02 10:39 UTC
+- **[tailcat](https://github.com/SriVishnu230707/tailcat)** · Go · last pushed 2026-10-02 10:39 UTC
 - **[College-Club-Portal](https://github.com/SriVishnu230707/College-Club-Portal)** · JavaScript · last pushed 2026-09-29 14:25 UTC
-- **[tailcat](https://github.com/SriVishnu230707/tailcat)** · Go · last pushed 2026-09-29 14:23 UTC
-- **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-09-29 14:22 UTC
 <!-- RECENT_REPOS_END -->
 
 ---
