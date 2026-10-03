@@ -145,12 +145,12 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 This list refreshes about every six hours from my public repositories.
 
 <!-- RECENT_REPOS_START -->
+- **[find-my-things-campus](https://github.com/SriVishnu230707/find-my-things-campus)** · Python · last pushed 2026-10-03 14:52 UTC
 - **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-10-02 19:38 UTC
 - **[match-seat-booking-system](https://github.com/SriVishnu230707/match-seat-booking-system)** · JavaScript · last pushed 2026-10-02 16:58 UTC
 - **[OpenShell](https://github.com/SriVishnu230707/OpenShell)** · Rust · last pushed 2026-10-02 12:38 UTC
 - **[ogimagecn](https://github.com/SriVishnu230707/ogimagecn)** · TypeScript · last pushed 2026-10-02 12:06 UTC
 - **[tailcat](https://github.com/SriVishnu230707/tailcat)** · Go · last pushed 2026-10-02 10:39 UTC
-- **[College-Club-Portal](https://github.com/SriVishnu230707/College-Club-Portal)** · JavaScript · last pushed 2026-09-29 14:25 UTC
 <!-- RECENT_REPOS_END -->
 
 ---
