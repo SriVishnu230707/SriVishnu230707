@@ -145,12 +145,12 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 This list refreshes about every six hours from my public repositories.
 
 <!-- RECENT_REPOS_START -->
+- **[smart-college-asset-maintenacne](https://github.com/SriVishnu230707/smart-college-asset-maintenacne)** · PLpgSQL · last pushed 2026-10-22 07:47 UTC
+- **[ipatool](https://github.com/SriVishnu230707/ipatool)** · Mixed stack · last pushed 2026-10-22 07:28 UTC
+- **[superfile](https://github.com/SriVishnu230707/superfile)** · Go · last pushed 2026-10-22 07:17 UTC
+- **[tailcat](https://github.com/SriVishnu230707/tailcat)** · Go · last pushed 2026-10-22 07:17 UTC
 - **[find-my-things-campus](https://github.com/SriVishnu230707/find-my-things-campus)** · Python · last pushed 2026-10-17 05:58 UTC
 - **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-10-17 03:26 UTC
-- **[dream-music](https://github.com/SriVishnu230707/dream-music)** · Go · last pushed 2026-10-09 23:51 UTC
-- **[notes-app-docker-documentation](https://github.com/SriVishnu230707/notes-app-docker-documentation)** · PowerShell · last pushed 2026-10-09 16:26 UTC
-- **[ogimagecn](https://github.com/SriVishnu230707/ogimagecn)** · TypeScript · last pushed 2026-10-06 23:19 UTC
-- **[OpenShell](https://github.com/SriVishnu230707/OpenShell)** · Rust · last pushed 2026-10-06 22:42 UTC
 <!-- RECENT_REPOS_END -->
 
 ---
