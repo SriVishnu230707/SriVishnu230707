@@ -145,12 +145,12 @@ fun_fact: "With great power comes great responsibilities... and clean git commit
 This list refreshes about every six hours from my public repositories.
 
 <!-- RECENT_REPOS_START -->
-- **[smart-college-asset-maintenacne](https://github.com/SriVishnu230707/smart-college-asset-maintenacne)** · Python · last pushed 2026-10-28 18:23 UTC
+- **[smart-college-asset-maintenacne](https://github.com/SriVishnu230707/smart-college-asset-maintenacne)** · Python · last pushed 2026-10-29 18:55 UTC
+- **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-10-29 14:55 UTC
+- **[tailcat](https://github.com/SriVishnu230707/tailcat)** · Go · last pushed 2026-10-29 14:49 UTC
+- **[postgres](https://github.com/SriVishnu230707/postgres)** · C · last pushed 2026-10-29 14:33 UTC
 - **[ipatool](https://github.com/SriVishnu230707/ipatool)** · Mixed stack · last pushed 2026-10-22 07:28 UTC
 - **[superfile](https://github.com/SriVishnu230707/superfile)** · Go · last pushed 2026-10-22 07:17 UTC
-- **[tailcat](https://github.com/SriVishnu230707/tailcat)** · Go · last pushed 2026-10-22 07:17 UTC
-- **[find-my-things-campus](https://github.com/SriVishnu230707/find-my-things-campus)** · Python · last pushed 2026-10-17 05:58 UTC
-- **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-10-17 03:26 UTC
 <!-- RECENT_REPOS_END -->
 
 ---
