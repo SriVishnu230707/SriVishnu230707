@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100" viewBox="0 0 500 100" role="img" aria-labelledby="title desc">
+  <title id="title">Spider-Man quote</title>
+  <desc id="desc">Anyone can wear the mask. You can wear the mask.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="0"><stop stop-color="#141a20"/><stop offset="1" stop-color="#28333e"/></linearGradient>
+  </defs>
+  <rect width="500" height="100" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="498" height="98" rx="13" fill="none" stroke="#536273"/>
+  <path d="M32 20V80M468 20V80" stroke="#8a9bad" stroke-width="2" opacity=".65"/>
+  <text x="250" y="44" text-anchor="middle" fill="#d1d9e0" font-family="Arial, sans-serif" font-size="21" font-style="italic">“Anyone can wear the mask.</text>
+  <text x="250" y="72" text-anchor="middle" fill="#a9bac9" font-family="Arial, sans-serif" font-size="21" font-style="italic">You can wear the mask.”</text>
+</svg>

@@ -7,6 +7,9 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><img src="assets/spider-quote.svg" alt="Anyone can wear the mask. You can wear the mask. — Spider-Man" width="100%" /></td>
+  </tr>
+  <tr>
     <td align="center"><img src="assets/profile-header-grey.svg" alt="Sri Vishnu — building curious things with code" width="100%" /></td>
   </tr>
 </table>
@@ -73,10 +76,4 @@ Updated about every six hours from my public repositories.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SriVishnu230707/SriVishnu230707/output/github-contribution-grid-snake.svg" />
     <img alt="Animated GitHub activity trail, refreshed daily" src="https://raw.githubusercontent.com/SriVishnu230707/SriVishnu230707/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
-
----
-
-<div align="center">
-  <sub>“Anyone can wear the mask. You can wear the mask.” 🕷️</sub>
 </div>
