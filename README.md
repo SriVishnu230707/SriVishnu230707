@@ -10,7 +10,7 @@
     <td align="center"><img src="assets/spider-quote.svg" alt="Anyone can wear the mask. You can wear the mask. — Spider-Man" width="100%" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/profile-header-grey.svg" alt="Sri Vishnu — building curious things with code" width="100%" /></td>
+    <td align="center"><img src="assets/profile-header-animated.svg" alt="Animated Sri Vishnu name board with silver orbiting dots and a moving highlight" width="100%" /></td>
   </tr>
 </table>
 
