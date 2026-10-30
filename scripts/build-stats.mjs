@@ -1,4 +1,4 @@
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 
 const user = "SriVishnu230707";
 const headers = {
@@ -151,4 +151,13 @@ ${pulseRows}
 <text x="1064" y="299" text-anchor="end" class="footer">${updated}</text>
 </svg>\n`;
 await writeFile("assets/project-pulse.svg", pulseSvg, "utf8");
+const cacheKey = new Date().toISOString().slice(0, 16).replace(/[-:T]/g, "");
+const readme = await readFile("README.md", "utf8");
+if (!readme.includes("assets/profile-stats.svg") || !readme.includes("assets/project-pulse.svg")) {
+  throw new Error("Expected dashboard images in README.md");
+}
+const versioned = readme
+  .replace(/assets\/profile-stats\.svg(?:\?v=\d+)?/g, `assets/profile-stats.svg?v=${cacheKey}`)
+  .replace(/assets\/project-pulse\.svg(?:\?v=\d+)?/g, `assets/project-pulse.svg?v=${cacheKey}`);
+if (versioned !== readme) await writeFile("README.md", versioned, "utf8");
 console.log(`Generated dashboard from ${projects.length} original repositories.`);

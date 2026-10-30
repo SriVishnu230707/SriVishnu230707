@@ -7,7 +7,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/profile-header.svg" alt="Sri Vishnu — building curious things with code" width="100%" /></td>
+    <td align="center"><img src="assets/profile-header.svg?v=2" alt="Sri Vishnu — building curious things with code" width="100%" /></td>
   </tr>
 </table>
 
@@ -24,8 +24,8 @@
 ### 📊 The build log
 
 <div align="center">
-  <img src="assets/profile-stats.svg" alt="Live dashboard of public projects, stars, recent activity, languages, and most starred projects" width="100%" />
-  <img src="assets/project-pulse.svg" alt="Recent original projects with time since their latest push" width="100%" />
+  <img src="assets/profile-stats.svg?v=202610301349" alt="Live dashboard of public projects, stars, recent activity, languages, and most starred projects" width="100%" />
+  <img src="assets/project-pulse.svg?v=202610301349" alt="Recent original projects with time since their latest push" width="100%" />
 </div>
 
 <sub>Stats count public, non-fork repositories and refresh about every six hours. “Active” means a project was pushed in the last 30 days.</sub>
