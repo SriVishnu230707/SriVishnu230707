@@ -27,8 +27,8 @@
 ### 📊 The build log
 
 <div align="center">
-  <img src="assets/profile-stats.svg?v=202610301349" alt="Live dashboard of public projects, stars, recent activity, languages, and most starred projects" width="100%" />
-  <img src="assets/project-pulse.svg?v=202610301349" alt="Recent original projects with time since their latest push" width="100%" />
+  <img src="assets/profile-stats.svg?v=202610302227" alt="Live dashboard of public projects, stars, recent activity, languages, and most starred projects" width="100%" />
+  <img src="assets/project-pulse.svg?v=202610302227" alt="Recent original projects with time since their latest push" width="100%" />
 </div>
 
 <sub>Stats count public, non-fork repositories and refresh about every six hours. “Active” means a project was pushed in the last 30 days.</sub>
@@ -60,12 +60,12 @@
 Updated about every six hours from my public repositories.
 
 <!-- RECENT_REPOS_START -->
-- **[smart-college-asset-maintenacne](https://github.com/SriVishnu230707/smart-college-asset-maintenacne)** · Python · last pushed 2026-10-29 18:55 UTC
-- **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-10-29 14:55 UTC
-- **[tailcat](https://github.com/SriVishnu230707/tailcat)** · Go · last pushed 2026-10-29 14:49 UTC
-- **[postgres](https://github.com/SriVishnu230707/postgres)** · C · last pushed 2026-10-29 14:33 UTC
-- **[ipatool](https://github.com/SriVishnu230707/ipatool)** · Mixed stack · last pushed 2026-10-22 07:28 UTC
-- **[superfile](https://github.com/SriVishnu230707/superfile)** · Go · last pushed 2026-10-22 07:17 UTC
+- **[mplads-sentinel-ai](https://github.com/SriVishnu230707/mplads-sentinel-ai)** · TypeScript · last pushed 2026-10-30 19:26 UTC
+- **[ticker-room](https://github.com/SriVishnu230707/ticker-room)** · JavaScript · last pushed 2026-10-30 19:16 UTC
+- **[sri-vishnu-portfolio](https://github.com/SriVishnu230707/sri-vishnu-portfolio)** · HTML · last pushed 2026-10-30 14:52 UTC
+- **[superfile](https://github.com/SriVishnu230707/superfile)** · Go · last pushed 2026-10-30 13:19 UTC
+- **[ipatool](https://github.com/SriVishnu230707/ipatool)** · Go · last pushed 2026-10-30 13:19 UTC
+- **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-10-30 13:19 UTC
 <!-- RECENT_REPOS_END -->
 
 ### 🐍 Activity trail
