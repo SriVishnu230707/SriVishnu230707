@@ -1,4 +1,8 @@
 <div align="center">
+  <a href="https://github.com/SriVishnu230707">
+    <img src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif" alt="Spider-Man waving hello" width="150" />
+  </a>
+  <br />
   <img src="assets/profile-header.svg" alt="Sri Vishnu — building curious things with code" width="100%" />
 
   <p><strong>AI · full-stack · IoT</strong><br />Turning ideas into useful software, from Go services to intelligent interfaces and connected devices.</p>
@@ -10,24 +14,28 @@
 
 ---
 
+### 📊 GitHub at a glance
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SriVishnu230707&theme=tokyonight" alt="GitHub activity over time" width="98%" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SriVishnu230707&theme=tokyonight" alt="GitHub repository and contribution statistics" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SriVishnu230707&theme=tokyonight" alt="Repositories by programming language" width="48%" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=SriVishnu230707&theme=tokyonight&hide_border=true" alt="GitHub activity streak" width="60%" />
+</div>
+
+---
+
 ### ✦ Currently building
 
 - 🎵 **[Dream Music](https://github.com/SriVishnu230707/dream-music)** — a mood-aware music project built with **Go** and PostgreSQL.
 - 🌍 **[OpenSRE](https://github.com/SriVishnu230707/opensre)** — exploring AI agents for infrastructure incident response.
 - 🏛️ **[MPLADS Sentinel AI](https://github.com/SriVishnu230707/mplads-sentinel-ai)** — risk intelligence and monitoring for public projects.
 
-### ⚡ Projects in the lab
+### ⚡ More things I've made
 
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| [Ticker Room](https://github.com/SriVishnu230707/ticker-room) | Real-time market dashboard with alerts and paper trading | React · Node.js · Socket.IO · MongoDB |
-| [Spam SMS Detection](https://github.com/SriVishnu230707/spam-sms-detection) | SMS classification with a web interface and API | Python · scikit-learn · Streamlit |
-| [AgriSense Smart Irrigation](https://github.com/SriVishnu230707/AgriSense-Smart-Irrigation) | Sensor-driven irrigation control | C++ · ESP32 · Arduino |
-| [InterviewIQ](https://github.com/SriVishnu230707/interviewiq) | Interview question and answer feedback prototype | React · FastAPI · OpenAI API |
-| [Nexus Contact Space](https://github.com/SriVishnu230707/nexus-contact-space) | Responsive contact management app | HTML · CSS · JavaScript |
-| [Depthboard](https://github.com/SriVishnu230707/depthboard) | Spatial Kanban board with browser persistence | HTML · CSS · JavaScript |
-
-Also on the workbench: [Orbit OS](https://github.com/SriVishnu230707/orbit-os) · [Command-Line Ludo](https://github.com/SriVishnu230707/Ludo-game-enhanced) · [all repositories](https://github.com/SriVishnu230707?tab=repositories)
+[Ticker Room](https://github.com/SriVishnu230707/ticker-room) · [Spam SMS Detection](https://github.com/SriVishnu230707/spam-sms-detection) · [AgriSense Smart Irrigation](https://github.com/SriVishnu230707/AgriSense-Smart-Irrigation) · [InterviewIQ](https://github.com/SriVishnu230707/interviewiq) · [Nexus Contact Space](https://github.com/SriVishnu230707/nexus-contact-space) · [Depthboard](https://github.com/SriVishnu230707/depthboard) · [Orbit OS](https://github.com/SriVishnu230707/orbit-os) · [Command-Line Ludo](https://github.com/SriVishnu230707/Ludo-game-enhanced)
 
 ### 🧰 Toolbox
 
