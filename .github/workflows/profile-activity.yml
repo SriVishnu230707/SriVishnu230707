@@ -66,12 +66,12 @@ jobs:
         run: node scripts/build-stats.mjs
       - name: Commit profile changes
         run: |
-          if git diff --quiet -- README.md assets/profile-stats.svg; then
+          if git diff --quiet -- README.md assets/profile-stats.svg assets/project-pulse.svg; then
             echo "Profile activity is already current."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/profile-stats.svg
+          git add README.md assets/profile-stats.svg assets/project-pulse.svg
           git commit -m "Refresh recent repository activity"
           git push

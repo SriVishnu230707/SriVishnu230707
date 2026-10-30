@@ -36,42 +36,41 @@ const escape = (value) => String(value).replace(/[&<>"']/g, (char) => ({
 })[char]);
 
 const stats = [
-  ["PUBLIC PROJECTS", projects.length, "#38bdf8"],
-  ["TOTAL STARS", stars, "#fbbf24"],
-  ["ACTIVE · 30 DAYS", active, "#a78bfa"],
-  ["LANGUAGES", languages.size, "#fb7185"],
+  ["PUBLIC PROJECTS", projects.length, "#e2e8f0"],
+  ["TOTAL STARS", stars, "#b9c8d6"],
+  ["ACTIVE · 30 DAYS", active, "#8fa8bd"],
+  ["LANGUAGES", languages.size, "#a3b1bf"],
 ];
 const statCards = stats.map(([label, value, color], index) => {
   const x = 36 + index * 259;
   return `<g>
-    <rect x="${x}" y="100" width="244" height="105" rx="15" fill="#13223e" stroke="#263b60"/>
+    <rect x="${x}" y="100" width="244" height="105" rx="15" fill="#202831" stroke="#394550"/>
     <rect x="${x}" y="100" width="244" height="3" rx="2" fill="${color}"/>
     <text x="${x + 18}" y="137" class="label">${label}</text>
     <text x="${x + 18}" y="184" class="value" fill="${color}">${value}</text>
   </g>`;
 }).join("");
 
-const palette = ["#38bdf8", "#a78bfa", "#fb7185", "#fbbf24", "#34d399"];
+const palette = ["#cbd5e1", "#aebdca", "#91a7b8", "#748da2", "#58758e"];
 const languageRows = topLanguages.map(([language, count], index) => {
   const y = 256 + index * 28;
   const width = Math.round((count / maxLanguage) * 300);
   return `<g>
     <text x="46" y="${y + 13}" class="language">${escape(language)}</text>
-    <rect x="202" y="${y}" width="300" height="15" rx="7" fill="#1b3152"/>
+    <rect x="202" y="${y}" width="300" height="15" rx="7" fill="#303b46"/>
     <rect x="202" y="${y}" width="${width}" height="15" rx="7" fill="${palette[index]}"/>
     <text x="518" y="${y + 13}" class="count">${count}</text>
   </g>`;
 }).join("");
 
-const recent = [...projects].sort((a, b) => (b.pushed_at ?? "").localeCompare(a.pushed_at ?? "")).slice(0, 3);
-const recentRows = recent.map((repo, index) => {
+const mostStarred = [...projects].sort((a, b) => b.stargazers_count - a.stargazers_count).slice(0, 3);
+const starredRows = mostStarred.map((repo, index) => {
   const y = 268 + index * 42;
   const name = repo.name.length > 28 ? repo.name.slice(0, 27) + "…" : repo.name;
-  const date = repo.pushed_at.slice(0, 10);
   return `<g>
     <circle cx="634" cy="${y - 5}" r="5" fill="${palette[index]}"/>
     <text x="650" y="${y}" class="repo">${escape(name)}</text>
-    <text x="1024" y="${y}" text-anchor="end" class="date">${date}</text>
+    <text x="1024" y="${y}" text-anchor="end" class="date">★ ${repo.stargazers_count}</text>
   </g>`;
 }).join("");
 
@@ -79,36 +78,77 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" v
 <title id="title">Sri Vishnu's live GitHub dashboard</title>
 <desc id="desc">Public projects: ${projects.length}. Total stars: ${stars}. Projects active in 30 days: ${active}. Languages: ${languages.size}. Updated ${updated}.</desc>
 <defs>
-  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09152a"/><stop offset="1" stop-color="#191c3b"/></linearGradient>
-  <linearGradient id="line" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#fb7185"/></linearGradient>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#11161c"/><stop offset="1" stop-color="#242d36"/></linearGradient>
+  <linearGradient id="line" x2="1" y2="0"><stop stop-color="#64748b"/><stop offset=".5" stop-color="#cbd5e1"/><stop offset="1" stop-color="#7691a9"/></linearGradient>
   <style>
     .heading{font:700 25px Arial,sans-serif;fill:#f8fafc}
-    .label{font:700 11px Arial,sans-serif;letter-spacing:1.5px;fill:#94a3b8}
+    .label{font:700 11px Arial,sans-serif;letter-spacing:1.5px;fill:#a7b3c0}
     .value{font:700 42px Arial,sans-serif}
-    .section{font:700 15px Arial,sans-serif;fill:#dbeafe}
+    .section{font:700 15px Arial,sans-serif;fill:#d5dee7}
     .language,.repo{font:14px Arial,sans-serif;fill:#e2e8f0}
-    .count,.date,.footer{font:12px Arial,sans-serif;fill:#94a3b8}
+    .count,.date,.footer{font:12px Arial,sans-serif;fill:#a7b3c0}
     .pulse{animation:pulse 2.2s ease-in-out infinite}
     @keyframes pulse{50%{opacity:.25}}
     @media (prefers-reduced-motion:reduce){.pulse{animation:none}}
   </style>
 </defs>
 <rect width="1100" height="430" rx="22" fill="url(#bg)"/>
-<rect x="1" y="1" width="1098" height="428" rx="21" fill="none" stroke="#355079"/>
+<rect x="1" y="1" width="1098" height="428" rx="21" fill="none" stroke="#475563"/>
 <path d="M24 73H1076" stroke="url(#line)" stroke-width="2"/>
 <text x="36" y="48" class="heading">THE BUILD LOG</text>
-<circle cx="1040" cy="39" r="7" fill="#34d399" class="pulse"/>
+<circle cx="1040" cy="39" r="7" fill="#aebdca" class="pulse"/>
 <text x="1018" y="44" text-anchor="end" class="label">LIVE</text>
 ${statCards}
 <text x="36" y="237" class="section">LANGUAGES BY ORIGINAL REPOSITORY</text>
-<text x="620" y="237" class="section">LATEST PROJECT PUSHES</text>
+<text x="620" y="237" class="section">MOST STARRED PROJECTS</text>
 ${languageRows}
-${recentRows}
-<path d="M36 397H1064" stroke="#263b60"/>
+${starredRows}
+<path d="M36 397H1064" stroke="#475563"/>
 <text x="36" y="415" class="footer">Public, non-fork repositories · refreshed about every 6 hours</text>
 <text x="1064" y="415" text-anchor="end" class="footer">UPDATED ${updated}</text>
 </svg>\n`;
 
 await mkdir("assets", { recursive: true });
 await writeFile("assets/profile-stats.svg", svg, "utf8");
+const freshest = [...projects].sort((a, b) => (b.pushed_at ?? "").localeCompare(a.pushed_at ?? "")).slice(0, 4);
+const pulseRows = freshest.map((repo, index) => {
+  const y = 103 + index * 43;
+  const daysAgo = Math.max(0, Math.floor((Date.now() - new Date(repo.pushed_at).getTime()) / 86400000));
+  const freshness = Math.max(0, Math.round((1 - daysAgo / 30) * 280));
+  const name = repo.name.length > 33 ? repo.name.slice(0, 32) + "…" : repo.name;
+  return `<g>
+    <circle cx="43" cy="${y - 5}" r="5" fill="${palette[index]}"/>
+    <text x="59" y="${y}" class="project">${escape(name)}</text>
+    <rect x="445" y="${y - 13}" width="280" height="12" rx="6" fill="#303b46"/>
+    <rect x="445" y="${y - 13}" width="${freshness}" height="12" rx="6" fill="${palette[index]}"/>
+    <text x="755" y="${y}" class="age">${daysAgo === 0 ? "today" : `${daysAgo}d ago`}</text>
+    <text x="1048" y="${y}" text-anchor="end" class="date">${repo.pushed_at.slice(0, 10)}</text>
+  </g>`;
+}).join("");
+const pulseSvg = `<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310" role="img" aria-labelledby="title desc">
+<title id="title">Project pulse</title>
+<desc id="desc">The four most recently pushed original public repositories. Bars show freshness over the last 30 days. Updated ${updated}.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171d23"/><stop offset="1" stop-color="#29333d"/></linearGradient>
+  <style>
+    .heading{font:700 24px Arial,sans-serif;fill:#f1f5f9}
+    .subtitle,.date,.age,.footer{font:12px Arial,sans-serif;fill:#a7b3c0}
+    .project{font:15px Arial,sans-serif;fill:#e2e8f0}
+    .scan{animation:scan 7s linear infinite}
+    @keyframes scan{0%{transform:translateX(0)}100%{transform:translateX(1000px)}}
+    @media (prefers-reduced-motion:reduce){.scan{animation:none}}
+  </style>
+</defs>
+<rect width="1100" height="310" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1098" height="308" rx="21" fill="none" stroke="#475563"/>
+<text x="36" y="42" class="heading">PROJECT PULSE</text>
+<text x="36" y="63" class="subtitle">Latest pushes across original public repositories</text>
+<path d="M36 73H1064" stroke="#64748b"/>
+<rect x="36" y="80" width="2" height="183" fill="#cbd5e1" opacity=".2" class="scan"/>
+${pulseRows}
+<path d="M36 281H1064" stroke="#475563"/>
+<text x="36" y="299" class="footer">Bars show freshness within a 30-day window · refreshed every 6 hours</text>
+<text x="1064" y="299" text-anchor="end" class="footer">${updated}</text>
+</svg>\n`;
+await writeFile("assets/project-pulse.svg", pulseSvg, "utf8");
 console.log(`Generated dashboard from ${projects.length} original repositories.`);
