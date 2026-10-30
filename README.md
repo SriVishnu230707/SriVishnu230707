@@ -1,11 +1,13 @@
 <table>
   <tr>
-    <td align="center" width="260">
+    <td align="center">
       <a href="https://github.com/SriVishnu230707">
         <img src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif" alt="Spider-Man waving hello" width="235" />
       </a>
     </td>
-    <td><img src="assets/profile-header.svg" alt="Sri Vishnu — building curious things with code" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/profile-header.svg" alt="Sri Vishnu — building curious things with code" width="100%" /></td>
   </tr>
 </table>
 
