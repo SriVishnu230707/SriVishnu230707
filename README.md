@@ -7,7 +7,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/profile-header.svg?v=2" alt="Sri Vishnu — building curious things with code" width="100%" /></td>
+    <td align="center"><img src="assets/profile-header-grey.svg" alt="Sri Vishnu — building curious things with code" width="100%" /></td>
   </tr>
 </table>
 
