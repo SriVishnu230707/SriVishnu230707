@@ -14,16 +14,13 @@
 
 ---
 
-### 📊 GitHub at a glance
+### 📊 The build log
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SriVishnu230707&theme=tokyonight" alt="GitHub activity over time" width="98%" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SriVishnu230707&theme=tokyonight" alt="GitHub repository and contribution statistics" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SriVishnu230707&theme=tokyonight" alt="Repositories by programming language" width="48%" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=SriVishnu230707&theme=tokyonight&hide_border=true" alt="GitHub activity streak" width="60%" />
+  <img src="assets/profile-stats.svg" alt="Live dashboard of public projects, stars, recent activity, languages, and latest project pushes" width="100%" />
 </div>
+
+<sub>Stats count public, non-fork repositories and refresh about every six hours. “Active” means a project was pushed in the last 30 days.</sub>
 
 ---
 
@@ -44,6 +41,7 @@
 **Web & APIs:** React · FastAPI · Node.js · Express · Socket.IO · Tailwind CSS
 
 **Data & AI:** PostgreSQL · MongoDB · Redis · scikit-learn · Pandas · NumPy
+
 **Devices & workflow:** ESP32 · Arduino · Docker · GitHub Actions · Vercel
 
 ### 🛰️ Fresh from my repositories
