@@ -27,8 +27,8 @@
 ### 📊 The build log
 
 <div align="center">
-  <img src="assets/profile-stats.svg?v=202611020622" alt="Live dashboard of public projects, stars, recent activity, languages, and most starred projects" width="100%" />
-  <img src="assets/project-pulse.svg?v=202611020622" alt="Recent original projects with time since their latest push" width="100%" />
+  <img src="assets/profile-stats.svg?v=202611022145" alt="Live dashboard of public projects, stars, recent activity, languages, and most starred projects" width="100%" />
+  <img src="assets/project-pulse.svg?v=202611022145" alt="Recent original projects with time since their latest push" width="100%" />
 </div>
 
 <sub>Stats count public, non-fork repositories and refresh about every six hours. “Active” means a project was pushed in the last 30 days.</sub>
@@ -60,12 +60,12 @@
 Updated about every six hours from my public repositories.
 
 <!-- RECENT_REPOS_START -->
-- **[eventyay](https://github.com/SriVishnu230707/eventyay)** · Mixed stack · last pushed 2026-11-01 16:44 UTC
-- **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-10-31 19:33 UTC
+- **[Adapative-Qos](https://github.com/SriVishnu230707/Adapative-Qos)** · Mixed stack · last pushed 2026-11-02 19:43 UTC
+- **[langchain](https://github.com/SriVishnu230707/langchain)** · Mixed stack · last pushed 2026-11-02 19:33 UTC
+- **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-11-02 19:15 UTC
+- **[postgres](https://github.com/SriVishnu230707/postgres)** · C · last pushed 2026-11-02 19:15 UTC
+- **[eventyay](https://github.com/SriVishnu230707/eventyay)** · Python · last pushed 2026-11-02 13:18 UTC
 - **[ogimagecn](https://github.com/SriVishnu230707/ogimagecn)** · TypeScript · last pushed 2026-10-31 16:14 UTC
-- **[postgres](https://github.com/SriVishnu230707/postgres)** · C · last pushed 2026-10-31 12:17 UTC
-- **[OpenShell](https://github.com/SriVishnu230707/OpenShell)** · Mixed stack · last pushed 2026-10-31 04:40 UTC
-- **[sri-vishnu-portfolio](https://github.com/SriVishnu230707/sri-vishnu-portfolio)** · HTML · last pushed 2026-10-31 03:49 UTC
 <!-- RECENT_REPOS_END -->
 
 ### 🐍 Activity trail
