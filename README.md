@@ -27,8 +27,8 @@
 ### 📊 The build log
 
 <div align="center">
-  <img src="assets/profile-stats.svg?v=202611110641" alt="Live dashboard of public projects, stars, recent activity, languages, and most starred projects" width="100%" />
-  <img src="assets/project-pulse.svg?v=202611110641" alt="Recent original projects with time since their latest push" width="100%" />
+  <img src="assets/profile-stats.svg?v=202611111942" alt="Live dashboard of public projects, stars, recent activity, languages, and most starred projects" width="100%" />
+  <img src="assets/project-pulse.svg?v=202611111942" alt="Recent original projects with time since their latest push" width="100%" />
 </div>
 
 <sub>Stats count public, non-fork repositories and refresh about every six hours. “Active” means a project was pushed in the last 30 days.</sub>
@@ -60,12 +60,12 @@
 Updated about every six hours from my public repositories.
 
 <!-- RECENT_REPOS_START -->
-- **[Adapative-Qos](https://github.com/SriVishnu230707/Adapative-Qos)** · Python · last pushed 2026-11-07 04:08 UTC
-- **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-11-07 03:35 UTC
-- **[eventyay](https://github.com/SriVishnu230707/eventyay)** · Python · last pushed 2026-11-07 03:13 UTC
+- **[postgres](https://github.com/SriVishnu230707/postgres)** · C · last pushed 2026-11-11 16:38 UTC
+- **[opensre](https://github.com/SriVishnu230707/opensre)** · Python · last pushed 2026-11-11 16:10 UTC
+- **[Adapative-Qos](https://github.com/SriVishnu230707/Adapative-Qos)** · Python · last pushed 2026-11-11 16:01 UTC
+- **[eventyay](https://github.com/SriVishnu230707/eventyay)** · Python · last pushed 2026-11-11 16:01 UTC
 - **[langchain](https://github.com/SriVishnu230707/langchain)** · Python · last pushed 2026-11-07 03:13 UTC
 - **[OpenShell](https://github.com/SriVishnu230707/OpenShell)** · Rust · last pushed 2026-11-03 16:46 UTC
-- **[postgres](https://github.com/SriVishnu230707/postgres)** · C · last pushed 2026-11-03 08:03 UTC
 <!-- RECENT_REPOS_END -->
 
 ### 🐍 Activity trail
